@@ -1,4 +1,4 @@
-HashMap Implementation
+**HashMap Implementation**
 
 This is my HashMap implementation from my data structures class. 
 
